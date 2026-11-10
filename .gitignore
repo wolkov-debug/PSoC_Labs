@@ -1,0 +1,22 @@
+# PSoC Creator generated files and folders
+Debug/
+Release/
+Export/
+Generated_Source/
+codegentemp/
+
+# Build artifacts
+*.hex
+*.elf
+*.map
+*.lst
+*.o
+*.d
+*.a
+
+# Workspace/Project temporary files
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
